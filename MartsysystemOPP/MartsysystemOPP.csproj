@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ADF66874-5414-4CED-8CEF-7432688E673E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MartsysystemOPP</RootNamespace>
+    <AssemblyName>MartsysystemOPP</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper">
+      <HintPath>..\packages\Dapper.1.50.2\lib\net45\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Mart_SystemDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mart_SystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Patterns\Adapter\ConnectionAdaptee.cs" />
+    <Compile Include="Patterns\Adapter\ConnectionAdapter.cs" />
+    <Compile Include="Patterns\Facade\isalesreport.cs" />
+    <Compile Include="Patterns\Facade\salesbydate.cs" />
+    <Compile Include="Patterns\Facade\salesbyuser.cs" />
+    <Compile Include="Patterns\Facade\salesreport.cs" />
+    <Compile Include="Patterns\Factory\catdrink.cs" />
+    <Compile Include="Patterns\Factory\catelectronic.cs" />
+    <Compile Include="Patterns\Factory\catothers.cs" />
+    <Compile Include="Patterns\Factory\catprofactory.cs" />
+    <Compile Include="Patterns\Factory\catfood.cs" />
+    <Compile Include="Patterns\Factory\igetcategory.cs" />
+    <Compile Include="Patterns\Adapter\iconnection.cs" />
+    <Compile Include="Patterns\Composite\admincomposite.cs" />
+    <Compile Include="Patterns\Composite\cashierleaf.cs" />
+    <Compile Include="Patterns\Composite\iusercomponent.cs" />
+    <Compile Include="Patterns\Proxy\calculationbill.cs" />
+    <Compile Include="Patterns\Proxy\icalculationbill.cs" />
+    <Compile Include="Patterns\Proxy\proxycalculationbill.cs" />
+    <Compile Include="Patterns\LoginClass.cs" />
+    <Compile Include="Forms\ManageCashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManageCashier.Designer.cs">
+      <DependentUpon>ManageCashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patterns\others\imageLocation.cs" />
+    <Compile Include="Patterns\others\ProductsClass.cs" />
+    <Compile Include="Forms\FormCashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCashier.Designer.cs">
+      <DependentUpon>FormCashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashierPanel\others\Bill.cs" />
+    <Compile Include="CashierPanel\others\quantitycalculation.cs" />
+    <Compile Include="Forms\CustomerPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CustomerPayment.Designer.cs">
+      <DependentUpon>CustomerPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashierPanel\Pay\ByCash.cs" />
+    <Compile Include="CashierPanel\Pay\Payment.cs" />
+    <Compile Include="Patterns\others\Sales.cs" />
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialSkinTheme\Theme.cs" />
+    <Compile Include="Forms\ManegeProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManegeProducts.Designer.cs">
+      <DependentUpon>ManegeProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReportSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReportSales.Designer.cs">
+      <DependentUpon>ReportSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SelectMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SelectMenu.Designer.cs">
+      <DependentUpon>SelectMenu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\ManageCashier.resx">
+      <DependentUpon>ManageCashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormCashier.resx">
+      <DependentUpon>FormCashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CustomerPayment.resx">
+      <DependentUpon>CustomerPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManegeProducts.resx">
+      <DependentUpon>ManegeProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReportSales.resx">
+      <DependentUpon>ReportSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SelectMenu.resx">
+      <DependentUpon>SelectMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram10.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram9.cd" />
+    <None Include="Mart_SystemDataSet.xsc">
+      <DependentUpon>Mart_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Mart_SystemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Mart_SystemDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Mart_SystemDataSet.xss">
+      <DependentUpon>Mart_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\b9995540-02d7-4d4b-9cc4-65d16135cbe5.png" />
+    <None Include="Resources\cart.png" />
+    <None Include="Images\Project\Back-50 %281%29.png" />
+    <None Include="Images\Project\Back-50.png" />
+    <None Include="Images\Project\344330-200.png" />
+    <None Include="Images\Project\back-button.png" />
+    <None Include="Images\Four-bars-of-soap.jpg" />
+    <Content Include="Images\36474F.png" />
+    <None Include="Images\Project\cart.png" />
+    <None Include="Images\Project\2772.png" />
+    <None Include="Images\Project\vector_black_background_shopping_cart_icon_280673.jpg" />
+    <None Include="Images\search-256.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

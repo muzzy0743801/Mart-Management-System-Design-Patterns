@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MartsysystemOPP.CashierPanel.Bill">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAAAAAAAAAAAAAAAAAAAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>CashierPanel\others\Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.CashierPanel.CustomerPayment" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAEABAAAACAAoACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\CustomerPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.CashierPanel.Sales">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAQAAAAAAAABkAAAAQAgAQAAAAgAAgAAIAAA=</HashCode>
+      <FileName>Patterns\others\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.CashierPanel.Calculation.quantitycalculation">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAgAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashierPanel\others\quantitycalculation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.CashierPanel.Pay.ByCash">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashierPanel\Pay\ByCash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.CashierPanel.Pay.Payment">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAggAAAAAABAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>CashierPanel\Pay\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.FormCashier" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAAAACCACQAAJQAIBCAAAgyAgQJgAkBkGAGISASADQ=</HashCode>
+      <FileName>Forms\FormCashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Login" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUgAAAAAACEAABAAIACAAAAKAAAAAACIAFAAAABACAA=</HashCode>
+      <FileName>Forms\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.ManageCashier" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAoECCBCAAEBIQAACAAAACgCApgIAgAGAACAFCAQY=</HashCode>
+      <FileName>Forms\ManageCashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.ManegeProducts" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAKACCFCAIADIQAAGAAAAiAmABAAAwQKICAAJSEQY=</HashCode>
+      <FileName>Forms\ManegeProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.ReportSales" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAIACKACAAABAKgACAAAACAAABAACgMQACAAAAAAA=</HashCode>
+      <FileName>Forms\ReportSales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.SelectMenu" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAJAAAACAABACAEAICAAAAEAIACBAAAA=</HashCode>
+      <FileName>Forms\SelectMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.LoginClass">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAA=</HashCode>
+      <FileName>Patterns\LoginClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Program" Collapsed="true">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.MaterialSkinTheme.Theme" Collapsed="true">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaterialSkinTheme\Theme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Adapter.ConnectionAdaptee">
+    <Position X="2.5" Y="9.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAABAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Adapter\ConnectionAdaptee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Adapter.ConnectionAdapter" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Adapter\ConnectionAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.imageLocation">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABA=</HashCode>
+      <FileName>Patterns\others\imageLocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.ProductsClass">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAQAAEEQEAAAAAAAgAEAAQGAAEAUgAAAAAwAIACAA=</HashCode>
+      <FileName>Patterns\others\ProductsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Composite.admincomposite" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAGECEAAAAACAAAEAYQCAAEAEACAAAAAAKAAAA=</HashCode>
+      <FileName>Patterns\Composite\admincomposite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.Composite.cashierleaf" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACEAkAAAAAAAAABAIQCAAEAEAAAAAAAAIAAAA=</HashCode>
+      <FileName>Patterns\Composite\cashierleaf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Facade.salesbydate" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAACAJAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Facade\salesbydate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Facade.salesbyuser" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Facade\salesbyuser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Facade.salesreport">
+    <Position X="18.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQgAAAAAAAAAAAAAAAAAAAAAgACAAJAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Facade\salesreport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Factory.catdrink" BaseTypeListCollapsed="true">
+    <Position X="21" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory\catdrink.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Factory.catelectronic" BaseTypeListCollapsed="true">
+    <Position X="21" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory\catelectronic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Factory.catfood" BaseTypeListCollapsed="true">
+    <Position X="22.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory\catfood.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Factory.catothers" BaseTypeListCollapsed="true">
+    <Position X="22.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory\catothers.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Factory.catprofactory">
+    <Position X="24.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory\catprofactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Proxy.calculationbill" BaseTypeListCollapsed="true">
+    <Position X="12" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAgAAAAAAAEAAAAAAABAAAAAAAAEAAAQA=</HashCode>
+      <FileName>Patterns\Proxy\calculationbill.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Proxy.proxycalculationbill" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Patterns\Proxy\proxycalculationbill.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MartsysystemOPP.Properties.Resources" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAABAEAACAQABEAAAAQAAAAAACAAAAAAAAMA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Properties.Settings" Collapsed="true">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MartsysystemOPP.AUD.iconnection">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Adapter\iconnection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MartsysystemOPP.Composite.iusercomponent">
+    <Position X="6.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAEAAAAAAAAAAAIQCAAEAEAAAAAAAAIAAAA=</HashCode>
+      <FileName>Patterns\Composite\iusercomponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MartsysystemOPP.AUD.Facade.isalesreport">
+    <Position X="16" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Facade\isalesreport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MartsysystemOPP.AUD.Factory.igetcategory">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory\igetcategory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MartsysystemOPP.AUD.Proxy.icalculationbill">
+    <Position X="10.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Patterns\Proxy\icalculationbill.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

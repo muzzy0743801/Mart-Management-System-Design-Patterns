@@ -1,0 +1,4 @@
+Electronic
+Drink
+Food
+Others

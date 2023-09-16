@@ -1,0 +1,43 @@
+Creational Design Pattern :-
+
+1 ) Factory Pattern :
+			Client agar mart me jataa he to usko ya nhi
+ ptaa hoga ka kis class me kia kaam ho rahaa he .
+
+Parent Class : catprofactory
+Interface : igetcategory
+Sub Class : catdrink , catother,catfood and catelectronics
+
+
+Structural Design Pattern :-
+
+1 ) Adapter Pattern : (Convert the interface of the class
+                         into a form what client expect.)
+
+Target Interface : icconnection (This Desire Interface class used
+				   by clients.)
+Adapter Class : connectionAdapter (implements desired target interface
+                                   and specific request avalable from
+				    Adaptee class .)
+Adaptee Class : connectionAdaptr (this class used adapter class to
+				  reuse existing funcnality.)
+
+
+2 ) Facade Pattern : (Providing an interface to a set of interfaces
+          Clients are directly access subsystems but not preference.)
+
+Interface : isalesreport
+
+Main Class : sales report
+
+Sub Classes : { sales by date : date wise data save hoga
+		sales by user : casheir ka zariya data save hoga }
+
+
+
+3 ) Composite Pattern : (Allowing clients to operate 
+                          on hierarchy of objects.)
+
+
+
+4 ) Proxy Pattern : (Representing another object.)

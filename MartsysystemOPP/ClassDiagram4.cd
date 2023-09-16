@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MartsysystemOPP.AUD.Connection" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAACAAAAAAAAQAAAAAAAAAAAQAAAAACAAAAAAIQAA=</HashCode>
+      <FileName>AUD\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.imageLocation" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABA=</HashCode>
+      <FileName>AUD\imageLocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.RefreshOrClear" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AUD\RefreshOrClear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.Save" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAEAACAAAAAAA=</HashCode>
+      <FileName>AUD\Save.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.AUD.ShowData" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQAA=</HashCode>
+      <FileName>AUD\ShowData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.cashier" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAAAAACACAAABAAAACCAAAiAkAJAAAAgOAFIQACADQ=</HashCode>
+      <FileName>cashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Login" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEgAAAQAACAgABgAIACAAQAiAAAACACABFQAAABACAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Products" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACCACECAIADIQAACAAAAiAmAYABAQQCIABAISEAQ=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Program" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.select" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAABACAMA4AAAAAEAAAABAAAA=</HashCode>
+      <FileName>select.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Properties.Resources" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MartsysystemOPP.Properties.Settings" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

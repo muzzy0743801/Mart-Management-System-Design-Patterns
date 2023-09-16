@@ -1,0 +1,202 @@
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.cashier.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Products.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.select.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.dll
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.xml
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.AddCashier.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.PaymentByCheque.resources
+C:\Users\Muhmmad Nauman\Documents\Visual Studio 2012\Projects\Opp\Sir Ubaid ur rehmaan\Assignment 2\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.dll
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.xml
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.AddCashier.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.cashier.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.PaymentByCheque.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Products.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.select.resources
+C:\Users\glab\Downloads\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+G:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+G:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+G:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+G:\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.dll
+G:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+G:\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.xml
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.AddCashier.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.cashier.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.PaymentByCheque.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Products.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.select.resources
+G:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+D:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.AddCashier.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.cashier.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.PaymentByCheque.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Products.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.select.resources
+D:\MartsysystemOPP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+D:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+D:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+D:\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.dll
+D:\MartsysystemOPP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+D:\MartsysystemOPP\MartsysystemOPP\bin\Debug\Dapper.xml
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.dll
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.xml
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.AddCashier.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.cashier.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.PaymentByCheque.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Products.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.select.resources
+C:\Users\Muhmmad Nauman\Desktop\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+E:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (Opp)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+E:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (Opp)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+E:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (Opp)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+E:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+E:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+E:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.dll
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.xml
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.AddCashier.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.cashier.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.PaymentByCheque.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Products.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.select.resources
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+F:\PAF-Kiet\2nd Semmister\Sir Ibraheem Hassan (OOP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.dll
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.xml
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.AddCashier.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.cashier.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.PaymentByCheque.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Products.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.select.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+F:\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+F:\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+F:\MartsysystemOOP\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+F:\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.dll
+F:\MartsysystemOOP\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+F:\MartsysystemOOP\MartsysystemOPP\bin\Debug\Dapper.xml
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ManageCashier.resources
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.SelectMenu.resources
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.FormCashier.resources
+F:\MartsysystemOOP\MartsysystemOPP\obj\Debug\MartsysystemOPP.ManegeProducts.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\bin\Debug\Dapper.dll
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\bin\Debug\Dapper.xml
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.ManageCashier.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.FormCashier.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.ManegeProducts.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.SelectMenu.resources
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\Project\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\Project\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+F:\PAF-KIET\5th Semester Fall- 18\Design Patterns(DP)\Project\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.pdb
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\bin\Debug\Dapper.dll
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\bin\Debug\MaterialSkin.dll
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\bin\Debug\Dapper.xml
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojResolveAssemblyReference.cache
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.ManageCashier.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.FormCashier.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.CashierPanel.CustomerPayment.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.Login.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.ManegeProducts.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.Properties.Resources.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.ReportSales.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.SelectMenu.resources
+C:\Users\khan\Downloads\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.csproj.GenerateResource.Cache
+C:\Users\khan\Desktop\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\bin\Debug\MartsysystemOPP.exe.config
+C:\Users\khan\Desktop\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+C:\Users\khan\Desktop\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
+C:\Users\bilal\Downloads\MartSystem(DP)-20191206T155041Z-001-20210417T011445Z-001\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.csprojAssemblyReference.cache
+C:\Users\bilal\Downloads\MartSystem(DP)-20191206T155041Z-001-20210417T011445Z-001\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.exe
+C:\Users\bilal\Downloads\MartSystem(DP)-20191206T155041Z-001-20210417T011445Z-001\MartSystem(DP)-20191206T155041Z-001\MartSystem(DP)\MartsysystemOPP\obj\Debug\MartsysystemOPP.pdb
